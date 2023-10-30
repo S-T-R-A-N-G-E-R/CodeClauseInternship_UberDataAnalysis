@@ -52,6 +52,7 @@ This repository is structured as follows:
 - [Uber Data Analysis.ipynb](/Uber%20Data%20Analysis.ipynb): Jupyter Notebook containing the analysis code and insights.
 - [Dataset](/UberDataset.csv): Directory containing the dataset.
 - [Project Report](/Uber_Data_Analysis_Report.pdf): PDF report summarizing the analysis and findings.
+- [Required Packages](/requirements.txt)
 - [README.md](/README.md): Project documentation (you are here).
 
 
