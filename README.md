@@ -12,7 +12,8 @@ This project involves an in-depth analysis of Uber transportation data to uncove
 - [Analysis and Insights](#analysis-and-insights)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Acknowledgements](#acknowledgments)
+- [Author](#author)
 
 ## Introduction
 
